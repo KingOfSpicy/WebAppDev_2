@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheWei_WAD_Task3", "CheWei_WAD_Task3.csproj", "{BD754DDE-CA66-4798-9612-DA8F7BC6B83F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD754DDE-CA66-4798-9612-DA8F7BC6B83F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD754DDE-CA66-4798-9612-DA8F7BC6B83F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD754DDE-CA66-4798-9612-DA8F7BC6B83F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD754DDE-CA66-4798-9612-DA8F7BC6B83F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82B1C8CA-30C7-4BA4-AD3D-AD98F85C98C6}
+	EndGlobalSection
+EndGlobal
